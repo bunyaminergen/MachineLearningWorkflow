@@ -3,42 +3,45 @@
 > “*Mathematics has always existed. Humans discovered it. Mathematics is essentially a matter of patience. It should be understood not by memorizing, but by discovering.” -* **Cahit Arf**
 > 
 
-<style>
+<details>
+<summary style="font-size: 75px; font-weight: bold;">1 - Goal </summary>
+Amaç nedir ? Hangi sorular sorulmalı ?
 
-summary {
-    font-size: 50px;
-    font-weight: bold;
-}
-
-</style>
 
 <details>
-  <summary>1 - Goal</summary>
-  
-  İçerik
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/aUIlZ_U96OA?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<summary style="font-size: 50px; font-weight: bold;">Business</summary>
+
+[Business Problem](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/Business%20Problem%20fd5b71c7beb54bf09080fb4a66e42989.md)
+
+<details>
+<summary style="font-size: 25px; font-weight: bold;">Customer obsession</summary>
+
+[What is Customer Obsession](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/What%20is%20Customer%20Obsession%204d9b7d37603749a1873deaf67a5aa99f.md)
+
+</details>
+</details>
+
+<details>
+
+<summary style="font-size: 50px; font-weight: bold;">Research</summary>
+
+Research Goals....
+
+</details>
+
+</details> <!-- En dıştaki kaplayan detail-->
+
+
+## Research
+
+## Hybrid
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://www.youtube.com/watch?v=aUIlZ_U96OA&/0.jpg)](https://www.youtube.com/watch?v=aUIlZ_U96OA&)
-
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://raw.githubusercontent.com/bunyaminergen/MachineLearningWorkflow/master/deneme.mp4)
 
 </details>
 
-
-# 1 - Goal
-
-## Business
-
-[Business Problem](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/Business%20Problem%20fd5b71c7beb54bf09080fb4a66e42989.md)
-
-### Customer obsession
-
-[What is Customer Obsession](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/What%20is%20Customer%20Obsession%204d9b7d37603749a1873deaf67a5aa99f.md)
-
-## Research
-
-## Hybrid
 
 # 2 - Learning
 
