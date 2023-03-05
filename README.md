@@ -14,7 +14,7 @@ Amaç nedir ? Hangi sorular sorulmalı ?
 
 <details>
 
-<summary style="font-size: 50px; font-weight: bold;padding-left: 50px;">Business</summary>
+<summary style="font-size: 50px; font-weight: bold;padding-left: 50px;"><h>Business</summary>
 
 <div style="padding-left: 100px;">
 
@@ -45,9 +45,6 @@ Research Goals....
 </details>
 
 </details> <!-- En dıştaki kaplayan detail-->
-
-
-## Research
 
 ## Hybrid
 
