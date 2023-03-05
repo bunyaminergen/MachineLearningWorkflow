@@ -5,12 +5,16 @@
 
 <details>
 <summary style="font-size: 75px; font-weight: bold;">1 - Goal </summary>
+
+<div style="padding-left: 50px;">
+
 Amaç nedir ? Hangi sorular sorulmalı ?
 
+</div>
 
 <details>
-<summary style="font-size: 50px; font-weight: bold;padding-left: 50px;">Business</summary>
 
+<summary style="font-size: 50px; font-weight: bold;padding-left: 50px;">Business</summary>
 
 <div style="padding-left: 100px;">
 
@@ -23,7 +27,11 @@ Amaç nedir ? Hangi sorular sorulmalı ?
 
 <summary style="font-size: 25px; font-weight: bold;padding-left: 100px;">Customer obsession</summary>
 
+<div style="padding-left: 100px;">
+
 [What is Customer Obsession](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/What%20is%20Customer%20Obsession%204d9b7d37603749a1873deaf67a5aa99f.md)
+
+</div>
 
 </details>
 </details>
