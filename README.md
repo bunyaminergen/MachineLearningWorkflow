@@ -20,9 +20,10 @@ summary {
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://www.youtube.com/watch?v=aUIlZ_U96OA&/0.jpg)](https://www.youtube.com/watch?v=aUIlZ_U96OA&)
 
-</details>
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://raw.githubusercontent.com/bunyaminergen/MachineLearningWorkflow/master/deneme.mp4)
+
+</details>
 
 
 # 1 - Goal
