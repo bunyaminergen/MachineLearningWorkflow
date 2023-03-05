@@ -1,4 +1,4 @@
-# ML WORKFLOW
+# Machine Learning Workflow
 
 > “*Mathematics has always existed. Humans discovered it. Mathematics is essentially a matter of patience. It should be understood not by memorizing, but by discovering.” -* **Cahit Arf**
 > 
@@ -9,12 +9,19 @@ Amaç nedir ? Hangi sorular sorulmalı ?
 
 
 <details>
-<summary style="font-size: 50px; font-weight: bold;">Business</summary>
+<summary style="font-size: 50px; font-weight: bold;padding-left: 50px;">Business</summary>
+
+
+<div style="padding-left: 100px;">
 
 [Business Problem](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/Business%20Problem%20fd5b71c7beb54bf09080fb4a66e42989.md)
 
+</div>
+
 <details>
-<summary style="font-size: 25px; font-weight: bold;">Customer obsession</summary>
+
+
+<summary style="font-size: 25px; font-weight: bold;padding-left: 100px;">Customer obsession</summary>
 
 [What is Customer Obsession](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/What%20is%20Customer%20Obsession%204d9b7d37603749a1873deaf67a5aa99f.md)
 
@@ -23,7 +30,7 @@ Amaç nedir ? Hangi sorular sorulmalı ?
 
 <details>
 
-<summary style="font-size: 50px; font-weight: bold;">Research</summary>
+<summary style="font-size: 50px; font-weight: bold;padding-left: 50px;">Research</summary>
 
 Research Goals....
 
@@ -534,3 +541,6 @@ vb gibi sorularla akış şeması ile seçilerek ilerlenme şeklinde bir çalı�
     
     - Workflow diagram hem tek bir görsel ana başlıklar olabilir, 
     daha sonra live canlı uygulama tıklayarak ilerlemeli bir şey olabilir.
+
+    - How to contribute diye bir bölüm açıp orada yeni sayfa açma sayfa template i vs kodlar başlıklar vs anlatabilirsin.
+    - 
