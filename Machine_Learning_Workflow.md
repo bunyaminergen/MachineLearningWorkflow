@@ -13,7 +13,7 @@ summary {
 </style>
 
 <details>
-  <summary>1 - Goal</summary>
+  <summary >1 - Goal</summary>
   
   İçerik
   <iframe width="560" height="315" src="https://www.youtube.com/embed/aUIlZ_U96OA?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
