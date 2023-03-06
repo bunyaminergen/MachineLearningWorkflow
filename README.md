@@ -38,14 +38,14 @@ Machine Learning Learning Types
 > *“If your data is not of good quality, it doesn't matter which model you use!”* **- Unknown** 
 >
 
-  - ## Structure
+  - ## [Structure](page.md)
     Structure of Data ...
 
     - ### [Unstructured Data](page.md) 
     - ### [Semi Structured Data](page.md)
     - ### [Structured Data](page.md)
 
-  - ## Types
+  - ## [Types](page.md)
     Types of Data ...
     - ### Math/Statistic based
       - #### Qualitative(Categorical)
@@ -56,7 +56,7 @@ Machine Learning Learning Types
         Kategorik data nedir etc...
         - ##### [Discrete](page.md) 
         - ##### [Continuous](page.md) 
-    - ### Computational Data
+    - ### [Computational Data](page.md)
       - ##### [Integer](page.md)
       - ##### [Floating](page.md)
       - ##### [Boolean](page.md)
@@ -72,7 +72,7 @@ Machine Learning Learning Types
       - [Big Data](page.md)
       - [Dark Data](page.md)
 
-  - ## Collection
+  - ## [Collection](page.md)
     Collection of Data ...
     - ### [Sampling](page.md)
     - ### [Labelling](page.md)
@@ -83,13 +83,13 @@ Machine Learning Learning Types
       - #### [Crawling](page.md)
     - ### [Bias](page.md)
   
- - ## Integration
+ - ## [Integration](page.md)
    - ### [Schemas](page.md)
  
- - ## Augmentation
+ - ## [Augmentation](page.md)
    - ### [Data Augmentation](page.md)
  
- - ## Balance
+ - ## [Balance](page.md) 
    Balance of Data
    - ### [Categoric](page.md)
    - ### [Numeric](page.md)
