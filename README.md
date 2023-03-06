@@ -3,7 +3,8 @@
 > “*Mathematics has always existed. Humans discovered it. Mathematics is essentially a matter of patience. It should be understood not by memorizing, but by discovering.” -* **Cahit Arf**
 > 
 
-<details>
+<details> <!-- En dıştaki kaplayan detail-->
+
 <summary style="font-size: 75px; font-weight: bold;">1 - Goal </summary>
 
 <div style="padding-left: 50px;">
@@ -18,22 +19,10 @@ Amaç nedir ? Hangi sorular sorulmalı ?
 
 <div style="padding-left: 100px;">
 
-[Business Problem](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/Business%20Problem%20fd5b71c7beb54bf09080fb4a66e42989.md)
+- [Business Problem](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/Business%20Problem%20fd5b71c7beb54bf09080fb4a66e42989.md)
 
-</div>
+- [Customer Obsession](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/What%20is%20Customer%20Obsession%204d9b7d37603749a1873deaf67a5aa99f.md)
 
-<details>
-
-
-<summary style="font-size: 25px; font-weight: bold;padding-left: 100px;">Customer obsession</summary>
-
-<div style="padding-left: 100px;">
-
-[What is Customer Obsession](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/What%20is%20Customer%20Obsession%204d9b7d37603749a1873deaf67a5aa99f.md)
-
-</div>
-
-</details>
 </details>
 
 <details>
@@ -42,7 +31,8 @@ Amaç nedir ? Hangi sorular sorulmalı ?
 
 <div style="padding-left: 100px;">
 
-Research Goals....
+- [Page](page.md)
+
 
 </div>
 
@@ -54,7 +44,8 @@ Research Goals....
 
 <div style="padding-left: 100px;">
 
-Hybrid Goals....
+- [Page](page.md)
+
 
 </div>
 
@@ -66,28 +57,105 @@ Hybrid Goals....
 
 <!-- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://raw.githubusercontent.com/bunyaminergen/MachineLearningWorkflow/master/deneme.mp4) -->
 
+<!-- </details> -->
+
+
+<!-- Boşluk -->
+
+
+<details> <!-- En dıştaki kaplayan detail-->
+
+<summary style="font-size: 75px; font-weight: bold;">2 - Learning</summary>
+
+<div style="padding-left: 50px;">
+
+Learning Nedir ?
+
+</div>
+
+<details>
+
+<summary style="font-size: 50px; font-weight: bold;padding-left: 50px;"><h>Supervised</summary>
+
+<div style="padding-left: 100px;">
+
+- [Classification](page.md)
+
+- [Regression](page.md)
+
 </details>
 
+<details>
 
-# 2 - Learning
+<summary style="font-size: 50px; font-weight: bold;padding-left: 50px;">Semi Supervised</summary>
 
-## Supervised
+<div style="padding-left: 100px;">
 
-### Classification
+- [Page](page.md)
 
-### Regression
+- [Page](page.md)
 
-## Semi Supervised
 
-## Self Supervised
+</div>
 
-[Self-supervised learning](https://en.wikipedia.org/wiki/Self-supervised_learning)
+</details>
 
-## Unsupervised
+<details>
 
-## Reinforcement
+<summary style="font-size: 50px; font-weight: bold;padding-left: 50px;">Self Supervised</summary>
 
-## Deep Learning
+<div style="padding-left: 100px;">
+
+- [Self-supervised learning](https://en.wikipedia.org/wiki/Self-supervised_learning)
+
+</div>
+
+</details>
+
+<details>
+
+<summary style="font-size: 50px; font-weight: bold;padding-left: 50px;">Unsupervised</summary>
+
+<div style="padding-left: 100px;">
+
+- [Page](page.md)
+
+</div>
+
+</details>
+
+<details>
+
+<summary style="font-size: 50px; font-weight: bold;padding-left: 50px;">Reinforcement</summary>
+
+<div style="padding-left: 100px;">
+
+- [Page](page.md)
+
+</div>
+
+</details>
+
+<details>
+
+<summary style="font-size: 50px; font-weight: bold;padding-left: 50px;">Deep Learning</summary>
+
+<div style="padding-left: 100px;">
+
+- [Page](page.md)
+
+</div>
+
+</details>
+
+</details> <!-- En dıştaki kaplayan detail-->
+
+<!-- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://www.youtube.com/watch?v=aUIlZ_U96OA&/0.jpg)](https://www.youtube.com/watch?v=aUIlZ_U96OA&)  -->
+
+<!-- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://raw.githubusercontent.com/bunyaminergen/MachineLearningWorkflow/master/deneme.mp4) -->
+
+<!-- </details> -->
+
 
 # 3 - Data
 
