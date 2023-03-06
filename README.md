@@ -77,3 +77,14 @@ Machine Learning Learning Types
    - [Big Data](page.md)
    - [Dark Data](page.md)
 
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+```ruby
+   puts "Hello World"
+```
+
+</p>
+</details>
