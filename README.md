@@ -176,19 +176,56 @@
 
 <details>
 
-<summary style="font-size: 50px; font-weight: bold;padding-left: 50px;"><h>Business</summary>
+<summary style="font-size: 50px; font-weight: bold;padding-left: 50px;"><h>Structure</summary>
 
 <div style="padding-left: 100px;">
 
-- [Business Problem](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/Business%20Problem%20fd5b71c7beb54bf09080fb4a66e42989.md)
+- [Data Structure](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/Data%20Structure%20ef1a1de5a9cb43118cd76f6c17389ffe.md)
 
-- [Customer Obsession](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/What%20is%20Customer%20Obsession%204d9b7d37603749a1873deaf67a5aa99f.md)
+- [Unstructured Data](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/Unstructured%20Data%2030244f724b244ac5a66a0f8669d548ae.md)
+
+- [Semi Structured Data](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/Semi%20Structured%20Data%20f764e5774f3447e193965fbb27006f01.md)
+
+- [Structured Data](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/Structured%20Data%20a7b3bbdd319e4bf0aeee519f722871e6.md)
 
 </details>
 
 <details>
 
-<summary style="font-size: 50px; font-weight: bold;padding-left: 50px;">Research</summary>
+<summary style="font-size: 50px; font-weight: bold;padding-left: 50px;">Types</summary>
+
+<div style="padding-left: 100px;">
+
+- [Page](page.md)
+
+
+</div>
+
+<details>
+
+<summary style="font-size: 25px; font-weight: bold;padding-left: 125px;">Math/Statistic based</summary>
+
+<details>
+
+<summary style="font-size: 15px; font-weight: bold;padding-left: 150px;">Qualitative(Categorical)</summary>
+<div style="font-size: 15px; padding-left: 150px;">
+
+- [Nominal](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/Nominal%2097d6fe656b13465992279d4cd3ebf89f.md)
+    
+- [Ordinal](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/Ordinal%206725cd597223479589b34371ce1c46f4.md)
+    
+
+</div>
+
+</details>
+
+</details>
+
+</details>
+
+<details>
+
+<summary style="font-size: 50px; font-weight: bold;padding-left: 50px;">Types</summary>
 
 <div style="padding-left: 100px;">
 
@@ -224,32 +261,11 @@
 <!-- Boşluk -->
 
 
-## Structure
-
-[Data Structure](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/Data%20Structure%20ef1a1de5a9cb43118cd76f6c17389ffe.md)
-
-### Unstructured Data
-
-[Unstructured Data](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/Unstructured%20Data%2030244f724b244ac5a66a0f8669d548ae.md)
-
-### Semi Structured Data
-
-[Semi Structured Data](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/Semi%20Structured%20Data%20f764e5774f3447e193965fbb27006f01.md)
-
-### Structured Data
-
-[Structured Data](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/Structured%20Data%20a7b3bbdd319e4bf0aeee519f722871e6.md)
-
-## Types
-
-### Math/Statistic based
+### 
 
 - Qualitative(Categorical)
     
-    [Nominal](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/Nominal%2097d6fe656b13465992279d4cd3ebf89f.md)
-    
-    [Ordinal](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/Ordinal%206725cd597223479589b34371ce1c46f4.md)
-    
+
 - Quantitative (Numeric)
     
     [Discrete](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/Discrete%2087424eb5471b42579f5c56bdeae5fc21.md)
