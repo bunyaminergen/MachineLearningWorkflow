@@ -225,8 +225,9 @@ Feature Engineering ...
     - ### [Security and Privacy](page.md) 
       - #### [Adversarial Attacks](page.md)
 
-# Model
-[Model](page.md)
+# Goal Evaluation
+[Customer Obsession](page.md)
+
 
 
 
