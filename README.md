@@ -53,17 +53,17 @@ Machine Learning Learning Types
         Kategorik data nedir etc...
         - ##### [Discrete](page.md) 
         - ##### [Continuous](page.md) 
-  - ## Computational Data
-    - ##### [Integer](page.md)
-    - ##### [Floating](page.md)
-    - ##### [Boolean](page.md)
-    - ##### [String](page.md)
-    - ##### [Array](page.md)
-    - ##### [Object](page.md)
-    - ##### [Image](page.md)
-    - ##### [Sound](page.md)
-    - ##### [Batch/stream/online](page.md)
-    - ##### [Dark Data](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/Dark%20Data%20697d9cdd51574efabd2527699042b0f7.md)
+   - ### Computational Data
+     - ##### [Integer](page.md)
+     - ##### [Floating](page.md)
+     - ##### [Boolean](page.md)
+     - ##### [String](page.md)
+     - ##### [Array](page.md)
+     - ##### [Object](page.md)
+     - ##### [Image](page.md)
+     - ##### [Sound](page.md)
+     - ##### [Batch/stream/online](page.md)
+     - ##### [Dark Data](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/Dark%20Data%20697d9cdd51574efabd2527699042b0f7.md)
 
  - ## Bonus
    - [Big Data](page.md)
