@@ -9,8 +9,8 @@ Project Purpose etc...
 Questions, Problems etc.
 Goal Types below...
    
-  - ## Business
-    - [Business](goal.md)
+  - ## [Business](goal.md)
+
     - [Customer Obsession](goal.md)
     - [Page](page.md)
   - ## [Research](goal.md)
@@ -47,12 +47,12 @@ Machine Learning Learning Types
 
   - ## [Types](page.md)
     Types of Data ...
-    - ### Math/Statistic based
-      - #### Qualitative(Categorical)
+    - ### [Math/Statistic based](page.md)
+      - #### [Qualitative(Categorical)](page.md)
         Kategorik data nedir etc...
         - ##### [Nominal](page.md) 
         - ##### [Ordinal](page.md) 
-      - #### Quantitative (Numeric)
+      - #### [Quantitative (Numeric)](page.md)
         Kategorik data nedir etc...
         - ##### [Discrete](page.md) 
         - ##### [Continuous](page.md) 
