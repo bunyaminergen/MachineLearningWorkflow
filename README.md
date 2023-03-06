@@ -3,7 +3,7 @@
 > “*Mathematics has always existed. Humans discovered it. Mathematics is essentially a matter of patience. It should be understood not by memorizing, but by discovering.” -* **Cahit Arf**
 > 
 
-# Goal
+- # Goal
 
    Project Purpose etc...
    
