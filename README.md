@@ -205,17 +205,37 @@
 
 <summary style="font-size: 25px; font-weight: bold;padding-left: 125px;">Math/Statistic based</summary>
 
+<div style="font-size: 20px; padding-left: 150px;">
+
 - [Page](page.md)
+
+</div>
 
 <details>
 
 <summary style="font-size: 15px; font-weight: bold;padding-left: 150px;">Qualitative(Categorical)</summary>
+
 <div style="font-size: 15px; padding-left: 150px;">
 
 - [Nominal](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/Nominal%2097d6fe656b13465992279d4cd3ebf89f.md)
     
 - [Ordinal](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/Ordinal%206725cd597223479589b34371ce1c46f4.md)
     
+
+</div>
+
+</details>
+
+<details>
+
+<summary style="font-size: 15px; font-weight: bold;padding-left: 150px;">Quantitative (Numeric)</summary>
+
+<div style="font-size: 15px; padding-left: 150px;">
+
+- [Discrete](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/Discrete%2087424eb5471b42579f5c56bdeae5fc21.md)
+
+- [Continuous](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/Continuous%20721c37bd2d2d4ec08a359605275be5e0.md)
+     
 
 </div>
 
@@ -263,17 +283,8 @@
 <!-- Boşluk -->
 
 
-### 
-
-- Qualitative(Categorical)
     
 
-- Quantitative (Numeric)
-    
-    [Discrete](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/Discrete%2087424eb5471b42579f5c56bdeae5fc21.md)
-    
-    [Continuous](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/Continuous%20721c37bd2d2d4ec08a359605275be5e0.md)
-    
 
 ### Computer
 
