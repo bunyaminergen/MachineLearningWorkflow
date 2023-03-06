@@ -7,7 +7,8 @@
 
    Project Purpose etc...
    
-  - ## [Business](goal.md)
+  - ## Business
+    Busines Problem ....
     - [Customer Obsession](goal.md)
     - [Page](page.md)
   - ## [Research](goal.md)
