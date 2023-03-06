@@ -77,14 +77,26 @@ Machine Learning Learning Types
    - [Big Data](page.md)
    - [Dark Data](page.md)
 
-<details><summary>CLICK ME</summary>
-<p>
+  - ## Collection
+    Collection of Data ...
+    - ### [Sampling](page.md)
+    - ### [Labelling](page.md)
+    - ### [Mining](page.md)
+      - #### [Wrapper](page.md)
+      - #### [Scraping](page.md)
+      - #### [APIs](page.md)
+      - #### [Crawling](page.md)
+    - ### [Bias](page.md)
+  
+ - ## Integration
+   - ### [Schemas](page.md)
+ 
+ - ## Augmentation
+   - ### [Data Augmentation](page.md)
+ 
+ - ## Balance
+   asasdsad
+   - ### [Categoric](page.md)
+   - ### [Numeric](page.md)
+   - ### [Target](page.md)
 
-#### We can hide anything, even code!
-
-```ruby
-   puts "Hello World"
-```
-
-</p>
-</details>
