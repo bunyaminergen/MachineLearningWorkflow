@@ -41,14 +41,6 @@ Machine Learning Learning Types
     - ### [Unstructured Data](page.md) 
     - ### [Semi Structured Data](page.md)
     - ### [Structured Data](page.md)
-  - ## [Semi Supervised](page.md)
-    - ### [Page](page.md)
-  - ## [Unsupervised](page.md)
-    - ### [Page](page.md)
-  - ## [Reinforcement](page.md)
-    - ### [Page](page.md) 
-  - ## [Deep Learning](page.md)
-    - ### [Page](page.md) 
 
   - ## Types
     Types of Data ...
