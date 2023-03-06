@@ -3,7 +3,7 @@
 > “*Mathematics has always existed. Humans discovered it. Mathematics is essentially a matter of patience. It should be understood not by memorizing, but by discovering.” -* **Cahit Arf**
 > 
 
-- # Goal
+# Goal
 
    Project Purpose etc...
    
@@ -95,8 +95,81 @@ Machine Learning Learning Types
    - ### [Data Augmentation](page.md)
  
  - ## Balance
-   asasdsad
+   Balance of Data
    - ### [Categoric](page.md)
    - ### [Numeric](page.md)
    - ### [Target](page.md)
+
+# Data Process
+
+Data Process...
+
+  - ## [Cleaning](page.md)
+    - ### [Anomalies](page.md) 
+    - ### [Missing Data](page.md)
+  - ## [Analysis](page.md)
+    - ### [distirbutions](page.md)
+    - ### [Relations ( cat and num)](page.md)
+    - ### [correlations](page.md)
+    - ### [variances](page.md)
+    - ### [mean](page.md) 
+    - ### [std](page.md)
+    - ### [group](page.md) 
+
+# Feature Engineering
+
+Feature Engineering ...
+
+  - ## [Intuition](page.md)
+    - ### [Tips](page.md) 
+  - ## [Analyses](page.md)
+    - ### [ANOVA ( Analys of Variance)](page.md)
+  - ## [Tests](page.md)
+  - ## [Transformations](page.md)
+    - ### [Normalization](page.md)
+    - ### [Standardization](page.md) 
+    - ### [Scaling](page.md)
+      - #### [Standard Scale](page.md)
+      - #### [MinMax Scale](page.md)
+      - #### [Power Transform](page.md)
+      - #### [MinAbs](page.md)
+      - #### [Robust](page.md)
+    - ### [Logarithmic Transformation](page.md)
+    - ### [Binning](page.md)
+    - ### [Encoding](page.md) 
+    - ### [Interaction terms](page.md) 
+    - ### [Polynomial expansion](page.md) 
+    - ### [Box - Cox](page.md) 
+    - ### [Hybrid](page.md) 
+    - ### [Radial Basis Function](page.md) 
+    - ### [Quadratic Features](page.md) 
+  - ## [Generating](page.md)
+    - ### [Multiplying](page.md) 
+    - ### [Combining](page.md) 
+      - #### [Product / Ratio](page.md)
+      - #### [Price-Earnings Ratio (P/E ratio)](page.md)
+      - #### [Variable to Variable](page.md)
+        - ##### [Quantitive2Qualitative](page.md)
+        - ##### [Quantitive2Qualitative](page.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
