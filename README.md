@@ -9,7 +9,8 @@ Project Purpose etc...
 Questions, Problems etc.
 Goal Types below...
    
-  - ## [Business](goal.md)
+  - ## Business
+    - [Business](goal.md)
     - [Customer Obsession](goal.md)
     - [Page](page.md)
   - ## [Research](goal.md)
