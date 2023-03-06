@@ -4,8 +4,10 @@
 > 
 
 # Goal
-[Cleaning](page.md)
-   Project Purpose etc...
+
+Project Purpose etc...
+Questions, Problems etc.
+Goal Types below...
    
   - ## [Business](goal.md)
     - [Customer Obsession](goal.md)
