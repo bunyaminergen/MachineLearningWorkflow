@@ -145,13 +145,24 @@ Feature Engineering ...
     - ### [Quadratic Features](page.md) 
   - ## [Generating](page.md)
     - ### [Multiplying](page.md) 
+      - #### [Variable to Variable](page.md)
+        - ##### [Quantitive2Qualitative](page.md)
+        - ##### [Quantitive2Qualitative](page.md)
     - ### [Combining](page.md) 
       - #### [Product / Ratio](page.md)
       - #### [Price-Earnings Ratio (P/E ratio)](page.md)
       - #### [Variable to Variable](page.md)
         - ##### [Quantitive2Qualitative](page.md)
         - ##### [Quantitive2Qualitative](page.md)
-
+    - ### [Aggregation](page.md) 
+  - ## [Interaction ](https://christophm.github.io/interpretable-ml-book/interaction.html) 
+  - ## [Filtering](page.md) 
+    - ### [Tree path features](page.md)
+    - ### [Image based filtering](page.md)
+    Color filtering etc
+    - ### [Sound based filtering](page.md)
+    frequency / wave
+  - ## [Text Based Featured](page.md) 
 
 
 
