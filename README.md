@@ -293,15 +293,28 @@
 
 
 
-## Collection
 
-- Sampling
-- Labelling
-- Mining
-    - Wrapper
-    - Scraping
-    - APIs
-    - Crawling
+
+
+
+
+
+
+- [1 - Goal](goal.md)
+  - [Business](goal.md)
+  - [Research](goal.md)
+  - [Hybrid](goal.md)
+- [2 - Learning](goal.md)
+  - [1 - Goal](goal.md)
+  - [1 - Goal](goal.md)
+  - [1 - Goal](goal.md)
+    - [1 - Goal](goal.md)
+    - [1 - Goal](goal.md)
+    - [1 - Goal](goal.md)
+    - [1 - Goal](goal.md)
+      - [1 - Goal](goal.md)
+      - [1 - Goal](goal.md)
+
 - Bias
 
 ## Integration
