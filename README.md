@@ -186,6 +186,10 @@ Feature Engineering ...
       - #### [Tuning](page.md)
         - ##### [Parameter Tuning](page.md)
       - #### [Structure](page.md)
+        - ##### [Ensemble Methods](page.md)
+        - ##### [Layers](page.md)
+        - ##### [Activation Funtions](page.md)
+        - ##### [Transfer learning](page.md)
     - ### [Evaluation](page.md) 
       - #### [Overfitting and Underfitting](page.md)
       - #### [Bias - Variance Tradeoff](page.md)
@@ -200,14 +204,23 @@ Feature Engineering ...
     - ### [Persistence](page.md)
   - ## [Deployment](page.md)
     - ### [Production environments](page.md) 
+      - #### [Serving](page.md)
     - ### [Containerization and orchestration](page.md) 
     - ### [Auto-scaling and A/B testing](page.md) 
   - ## [Maintenance](page.md)
     - ### [Monitoring](page.md) 
+      Continuously evaluating the model's performance and accuracy in production to understand how it is performing and identify any issues that may arise.
+      - #### [Drift](page.md)
+        - ##### [Data Drift](page.md)
+        - ##### [Model Drift](page.md)
+        - ##### [Drift detection](page.md)
+
     - ### [Updating](page.md) 
+      Keeping the model's data and algorithms up to date with the latest research and best practices. Scaling model over time according to the needs
     - ### [Versioning](page.md) 
     - ### [Logging](page.md) 
     - ### [Security and Privacy](page.md) 
+      - #### [Adversarial Attacks](page.md)
 
 
 
