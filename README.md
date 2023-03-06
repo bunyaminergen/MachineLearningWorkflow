@@ -9,7 +9,7 @@
 
 <div style="padding-left: 50px;">
 
-Amaç nedir ? Hangi sorular sorulmalı ?
+- [Page](page.md) (Amaç nedir ? Hangi sorular sorulmalı ?)
 
 </div>
 
@@ -69,7 +69,7 @@ Amaç nedir ? Hangi sorular sorulmalı ?
 
 <div style="padding-left: 50px;">
 
-Learning Nedir ?
+- [Page](page.md) (Learning nedir ? Hangi sorular sorulmalı ?)
 
 </div>
 
@@ -156,11 +156,73 @@ Learning Nedir ?
 
 <!-- </details> -->
 
+<!-- Boşluk -->
 
-# 3 - Data
 
-> *“If your data is not of good quality, it doesn't matter which model you use!”* **- Unknown**
-> 
+
+
+<details> <!-- En dıştaki kaplayan detail-->
+
+<summary style="font-size: 75px; font-weight: bold;">3 - Data </summary>
+
+> *“If your data is not of good quality, it doesn't matter which model you use!”* **- Unknown** 
+>
+
+<div style="padding-left: 50px;">
+
+- [Page](page.md) (Amaç nedir ? Hangi sorular sorulmalı ?)
+
+</div>
+
+<details>
+
+<summary style="font-size: 50px; font-weight: bold;padding-left: 50px;"><h>Business</summary>
+
+<div style="padding-left: 100px;">
+
+- [Business Problem](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/Business%20Problem%20fd5b71c7beb54bf09080fb4a66e42989.md)
+
+- [Customer Obsession](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/What%20is%20Customer%20Obsession%204d9b7d37603749a1873deaf67a5aa99f.md)
+
+</details>
+
+<details>
+
+<summary style="font-size: 50px; font-weight: bold;padding-left: 50px;">Research</summary>
+
+<div style="padding-left: 100px;">
+
+- [Page](page.md)
+
+
+</div>
+
+</details>
+
+<details>
+
+<summary style="font-size: 50px; font-weight: bold;padding-left: 50px;">Hybrid</summary>
+
+<div style="padding-left: 100px;">
+
+- [Page](page.md)
+
+
+</div>
+
+</details>
+
+</details> <!-- En dıştaki kaplayan detail-->
+
+<!-- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://www.youtube.com/watch?v=aUIlZ_U96OA&/0.jpg)](https://www.youtube.com/watch?v=aUIlZ_U96OA&)  -->
+
+<!-- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://raw.githubusercontent.com/bunyaminergen/MachineLearningWorkflow/master/deneme.mp4) -->
+
+<!-- </details> -->
+
+
+<!-- Boşluk -->
+
 
 ## Structure
 
