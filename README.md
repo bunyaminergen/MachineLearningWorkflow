@@ -205,6 +205,8 @@
 
 <summary style="font-size: 25px; font-weight: bold;padding-left: 125px;">Math/Statistic based</summary>
 
+- [Page](page.md)
+
 <details>
 
 <summary style="font-size: 15px; font-weight: bold;padding-left: 150px;">Qualitative(Categorical)</summary>
