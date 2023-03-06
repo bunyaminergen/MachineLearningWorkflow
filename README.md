@@ -238,21 +238,25 @@
      
 
 </div>
-
 </details>
-
-</details>
-
 </details>
 
 <details>
 
-<summary style="font-size: 50px; font-weight: bold;padding-left: 50px;">Types</summary>
+<summary style="font-size: 25px; font-weight: bold;padding-left: 125px;">Computational Data</summary>
 
-<div style="padding-left: 100px;">
+<div style="font-size: 20px; padding-left: 150px;">
 
-- [Page](page.md)
-
+- [Integer](page.md)
+- [Floating](page.md)
+- [Boolean](page.md)
+- [String](page.md)
+- [Array](page.md)
+- [Object](page.md)
+- [Image](page.md)
+- [Sound](page.md)
+- [Batch/stream/online](page.md)
+- [Dark Data](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/Dark%20Data%20697d9cdd51574efabd2527699042b0f7.md)
 
 </div>
 
@@ -260,14 +264,17 @@
 
 <details>
 
-<summary style="font-size: 50px; font-weight: bold;padding-left: 50px;">Hybrid</summary>
+<summary style="font-size: 25px; font-weight: bold;padding-left: 125px;">Bonus: Big Data & Dark Data</summary>
 
-<div style="padding-left: 100px;">
+<div style="font-size: 20px; padding-left: 150px;">
 
-- [Page](page.md)
+- [Big Data](Bigdata.md)
 
+- [Dark Data](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/Dark%20Data%20697d9cdd51574efabd2527699042b0f7.md)
 
 </div>
+
+</details>
 
 </details>
 
@@ -283,22 +290,8 @@
 <!-- Boşluk -->
 
 
-    
 
 
-### Computer
-
-[Computer based](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/Computer%20based%201b67694c8f5b4d8e8cf177ccc4c8274f.md)
-
-### Image
-
-### Sound
-
-### Batch/stream/online
-
-### Dark Data
-
-[Dark Data](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/Dark%20Data%20697d9cdd51574efabd2527699042b0f7.md)
 
 ## Collection
 
