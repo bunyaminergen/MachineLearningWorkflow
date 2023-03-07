@@ -171,6 +171,8 @@ Feature Engineering ...
     frequency / wave
   - ## [Text Based Featured](page.md) 
 
+  - ## Bonus
+    - [Survival bias](https://en.wikipedia.org/wiki/Survivorship_bias)
 ---
 
 # Model
@@ -243,6 +245,46 @@ Feature Engineering ...
 
 # Goal Evaluation
 [Customer Obsession](page.md)
+
+---
+___
+***
+
+# Bonuses
+
+## Bonus : Other ML Workflow Methods
+
+  ### - [CRISP-DM](https://www.notion.so/CRISP-DM-35aea803b058486896b2ff63ea2124d4)
+
+[Harvard](https://www.notion.so/Harvard-6357271060eb4773a17847b3f0e81b1f)
+
+[OSEMN Sciforce’s ](https://www.notion.so/OSEMN-Sciforce-s-43c8e6fd66a14379879650690aeea6da)
+
+[AWS Sagemaker](https://www.notion.so/AWS-Sagemaker-84a80aff2c3b43a0be3f07ab7a8d3f8e)
+
+## Bonus : Other Approaches
+
+[Statistical Analysis Plan (SAP)](https://www.notion.so/Statistical-Analysis-Plan-SAP-4a6eef7c796c4414af64264c64218055)
+
+[Data Analyses Plan](https://www.notion.so/Data-Analyses-Plan-a3fae70289db41f2a6ae77ba9b39900c)
+
+## Bonus : White Paper
+
+[White Paper](https://www.notion.so/White-Paper-b9a20c4ea57744238eb7917498bcb57f)
+
+## Bonus : Podcast - Data Scientist vs Machine Learning Engineer
+
+[https://open.spotify.com/episode/26iG67nH0vHKYczROEh5oq?si=e712ea3bd9be4b81](https://open.spotify.com/episode/26iG67nH0vHKYczROEh5oq?si=e712ea3bd9be4b81)
+
+## Bonus : Auto ML
+
+[Auto ML](https://www.notion.so/Auto-ML-32fee2d9fd1c4f64ba6b7546c5ec58a2)
+
+## Bonus : Tuckman Model
+
+## Bonus : Agile
+
+---
 
 ---
 ___
