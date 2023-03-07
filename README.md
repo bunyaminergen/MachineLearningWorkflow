@@ -18,6 +18,8 @@ Goal Types below...
   - ## [Hybrid](goal.md)
     - [Page](page.md)
 
+---
+
 # Learning
 
 Machine Learning Learning Types
@@ -33,6 +35,8 @@ Machine Learning Learning Types
     - ### [Page](page.md) 
   - ## [Deep Learning](page.md)
     - ### [Page](page.md) 
+
+---
 
 # Data
 > *“If your data is not of good quality, it doesn't matter which model you use!”* **- Unknown** 
@@ -94,6 +98,8 @@ Machine Learning Learning Types
    - ### [Numeric](page.md)
    - ### [Target](page.md)
 
+---
+
 # Data Process
 
 Data Process...
@@ -109,6 +115,8 @@ Data Process...
     - ### [mean](page.md) 
     - ### [std](page.md)
     - ### [group](page.md) 
+
+---
 
 # Feature Engineering
 
@@ -157,6 +165,8 @@ Feature Engineering ...
     - ### [Sound based filtering](page.md)
     frequency / wave
   - ## [Text Based Featured](page.md) 
+
+---
 
 # Model
 [Model](page.md) 
@@ -224,14 +234,14 @@ Feature Engineering ...
     - ### [Security and Privacy](page.md) 
       - #### [Adversarial Attacks](page.md)
 
+---
+
 # Goal Evaluation
 [Customer Obsession](page.md)
 
 ---
 ___
 ***
-
-
 
 
 
