@@ -29,6 +29,8 @@ Machine Learning Learning Types
     - ### [Regression](page.md)
   - ## [Semi Supervised](page.md)
     - ### [Page](page.md)
+  - ## [Self Supervised](page.md)
+    - ### [Page](page.md)
   - ## [Unsupervised](page.md)
     - ### [Page](page.md)
   - ## [Reinforcement](page.md)
@@ -246,10 +248,13 @@ Feature Engineering ...
 ___
 ***
 
+## Architecture
 
+[Architecture ](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/Architecture%20b6fca36819cd4fedb67e93aadf6c65ee.md)
 
+## How to Contribute?
 
-
+## Upcoming features
 
 
 
