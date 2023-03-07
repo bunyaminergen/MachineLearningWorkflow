@@ -120,6 +120,9 @@ Data Process...
 
 # Feature Engineering
 
+> “*Feature engineering is the art of extracting useful patterns from data. .” -* **Unknown**
+>
+
 Feature Engineering ...
 
   - ## [Intuition](page.md)
