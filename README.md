@@ -31,19 +31,18 @@ When developing a machine learning project, it can be more beneficial and practi
 
 After deciding to start a machine learning project, you can move on to the guided questions section and answer each question in sequence. The guided questions section will look like this:
 
-What is your goal?
-Diabete predict
-What type of goal do you have?
-Research
-What is the learning type?
-Supervised
-Do you have data?
-No
-Get data 
-or 
-collect data
-...
-and so on.
+- What is your goal? <br>
+\- Diabete predict <br>
+- What is type of goal ? <br>
+\- Research <br>
+- What is the learning type? <br>
+\- Supervised <br>
+- Do you have data? <br>
+\- No <br>
+\- Get data or <br>
+\- collect data <br>
+...<br>
+and so on.<br>
 
 By answering each question in sequence, you can develop a clear understanding of the goals and needs of your project. This approach can help you stay on track and avoid becoming overwhelmed by the various topics involved in machine learning. Overall, using the workflow diagram or guided questions can make the process of developing a machine learning project more manageable and efficient.
 
