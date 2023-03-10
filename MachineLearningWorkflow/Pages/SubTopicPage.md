@@ -1,16 +1,16 @@
 # Sub Topic Page
 
-Her başlık aşağıda anlatıldığı gibi oluşturulmalı. Eğer başlığa uygun bir alt başlık yoksa
-Örneğin bir konunun math başlığı yani matematiksel bir alt başlığı yoksa es geçilmeli.
+Each title should be created as described below. If there is no appropriate subtitle for the title
+For example, if a topic or/and subbtopic does not related math, mathematical subtitle should be skipped.
 
-Ana başlıklar markdow # ile belirtilmesi
+Specifying main titles with markdow #
 
-Her başlık ve sayfada mümkün olduğunca görselleştirme kullanılmalı...
+Visualization should be used as much as possible on each title and page...
 
-Bonus ekleme:
+Adding bonus:
 
-O konuya paralel, bir şekilde zıt ve/veya paralel olarak dokunan ve/veya destekleyen podcast,makale, terim, kavram
-başka bir yaklaşım varsa eklenebilir.
+Podcast, article, term, concept that touches and/or supports parallel to, in a way, and/or parallel to that subject.
+It can be added if there is another approach.
 
 # **What is … **
 
