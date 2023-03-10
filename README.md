@@ -3,6 +3,13 @@
 > “*Mathematics has always existed. Humans discovered it. Mathematics is essentially a matter of patience. It should be understood not by memorizing, but by discovering.” -* **Cahit Arf**
 > 
 
+# What is Machine Learning Workflow
+...
+
+# How to use 
+
+....s
+
 # Goal
 
 Project Purpose etc...
