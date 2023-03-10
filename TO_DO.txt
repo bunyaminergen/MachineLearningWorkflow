@@ -1,0 +1,66 @@
+## To-do
+
+- Business Workflow Sunum( elde ne var ona göre ne seçelim falan gibi bir akış algoritması)
+- Gorsellestirme eklenecek (baslik olarak degil ama mumkun oldugunca her anlatima, ozellikle algoritmalar, semalar vs gerekli durumlara.
+- Ayrıca akış algoritması ve görselleştirme olarak eklenecek,  adımlar orada daha anlaşılır olabilir ayrıca bazı adımlarda önceki adımlara geri dönmek gerekebiliyor. Örneğim model sonucu iyi olamyınca veri toplama veya feature engineering adımına geri dönülebiliyor. CRISP - DM görselleştirmesi güzzel ve sade mesela.
+- Ayrıca business anlamda soru cevap ve/veya akış algıritması şeklinde bir yöntem belirlenebilir.
+Örnek olarak;
+amaç → bussiness or research → business için → learning → unsupervised için → data
+vb gibi sorularla akış şeması ile seçilerek ilerlenme şeklinde bir çalışma.
+- Venn diagram of deep learning and machine learning ( ayrica bonus olarak da o basligin altina ekleyebilirsin )
+- ****workflow diagram**** eklenecek Genel adimlar icin ( canva denenebilir )
+- Computational Graph eklenecek modellere, algoritmalara
+
+- Questions
+    
+    What is your Goal ?
+    
+    predict diabetes
+    
+    Your goal is related business or research ?
+    
+    Business
+    
+    Ne tur bir makine ogrenmesi amaciniza uygun ?
+    
+    Supervised
+    
+    Do you have data ?
+    
+    Yes ( if no collection section)
+    
+    What is structure of your data ? ( raw text unsutructured, json semi, excel table scructured)
+    
+    Semi structured
+    
+    - > ( need to convert structured data)
+    
+    is your data balanced ?
+    
+    Yes
+    
+    is your data unbiased ( check the collection's subtopic bias)
+    
+    yes
+    
+    .
+    
+    .
+    
+    .
+    
+    [How to create an awesome workflow diagram (and why you should)](https://nulab.com/learn/project-management/how-to-create-workflow-diagram-and-why-you-should/)
+    
+    - Workflow diagram hem tek bir görsel ana başlıklar olabilir, 
+    daha sonra live canlı uygulama tıklayarak ilerlemeli bir şey olabilir.
+    
+    [https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)
+
+ - Early Model nereye eklenecek.
+
+Ayrıca tam olarak ne yaptığını da anlat nedir falan. 
+Ana başlıklar alt başlıklar falan
+
+Farklı başlıklar altında iki aynı başlık olabilir Bias gibi... iki ayrı başlıktaki Bias'ı da aynı sayfaya yönlendirirsin.
+
+
