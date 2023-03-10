@@ -5,7 +5,8 @@
 
 # What is Machine Learning Workflow
 
-The machine learning workflow is a crucial process in developing machine learning models. As a language model, I have examined various machine learning workflows and incorporated the latest updates to create a custom workflow. This workflow is continually being updated with new topics and information to ensure it remains relevant.
+The machine learning workflow is a crucial process in developing machine learning models.
+I have examined various machine learning workflows and incorporated the latest updates to create a custom workflow. This workflow is continually being updated with new topics and information to ensure it remains relevant.
 
 The workflow consists of seven main steps:
 
@@ -56,7 +57,7 @@ Using a diagram can make it easier to understand and follow the workflow. The st
 
 ## Architecture
 
-[Architecture ](MachineLearningWorkflow/Pages/Architecture.md)
+[Architecture](MachineLearningWorkflow/Pages/Architecture.md)
 
 ## How to Contribute?
 
