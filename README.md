@@ -6,7 +6,8 @@
 # What is Machine Learning Workflow
 
 The machine learning workflow is a crucial process in developing machine learning models.
-I have examined various machine learning workflows and incorporated the latest updates to create a custom workflow. This workflow is continually being updated with new topics and information to ensure it remains relevant.
+I have examined various machine learning workflows and incorporated the latest updates to create a custom workflow. 
+This workflow is continually being updated with new topics and information to ensure it remains relevant.
 
 The workflow consists of seven main steps:
 
@@ -54,6 +55,15 @@ Instead of using guiding questions, you may prefer to use a diagram to visualize
 We are considering two approaches for creating a diagram: static and dynamic. The static diagram will include general headings, such as the seven main steps in the workflow. The dynamic diagram, on the other hand, will be shaped by the project or user and will include questions similar to those in the guided questions section.
 
 Using a diagram can make it easier to understand and follow the workflow. The static diagram provides a general overview of the workflow, while the dynamic diagram can be customized to fit the needs of the specific project or user. Ultimately, the choice between the two approaches will depend on the user's preferences and the specific project's requirements.
+
+Dynamic Workflow Diagram:
+
+For example, after you determine your goal, when you click on the "Type of goal" option, 
+the dynamic diagram will change and the next step will appear.
+You can click and read the content of the step that you do not understand or do not know.
+In fact, in the "How to Use" section, we advise you not to dive deep into all the topics, 
+as it may cause you to lose your way. 
+Instead, we recommend that you identify your project goals and follow the steps accordingly.
 
 ## Architecture
 
