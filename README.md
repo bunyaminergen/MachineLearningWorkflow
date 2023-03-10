@@ -4,11 +4,64 @@
 > 
 
 # What is Machine Learning Workflow
+
+The machine learning workflow is a crucial process in developing machine learning models. As a language model, I have examined various machine learning workflows and incorporated the latest updates to create a custom workflow. This workflow is continually being updated with new topics and information to ensure it remains relevant.
+
+The workflow consists of seven main steps:
+
+1. Goal
+2. Learning
+3. Data
+4. Data Process
+5. Feature Engineering 
+6. Model
+7. Goal Evaluation
+
+To make the workflow easier to follow, I have created a diagram that outlines each step of the process. Additionally, I have included guiding questions to help users understand each step and ensure they are on the right track.
+
+Finally, users can access detailed pages for each topic covered in the workflow. This enables them to delve deeper into each topic and gain a more thorough understanding of the entire process.
+
+Overall, this machine learning workflow provides a comprehensive guide for users to develop effective machine learning models. By following this workflow, users can be confident in their ability to create accurate and efficient models.
+
+# How to use
+
+1. Questions:
+
+When developing a machine learning project, it can be more beneficial and practical to use the workflow diagram or guiding questions. It can be overwhelming to dive deep into every topic all at once.
+
+After deciding to start a machine learning project, you can move on to the guided questions section and answer each question in sequence. The guided questions section will look like this:
+
+What is your goal?
+Diabete predict
+What type of goal do you have?
+Research
+What is the learning type?
+Supervised
+Do you have data?
+No
+Get data 
+or 
+collect data
 ...
+and so on.
 
-# How to use 
+By answering each question in sequence, you can develop a clear understanding of the goals and needs of your project. This approach can help you stay on track and avoid becoming overwhelmed by the various topics involved in machine learning. Overall, using the workflow diagram or guided questions can make the process of developing a machine learning project more manageable and efficient.
 
-....
+2. Diagrams
+
+Instead of using guiding questions, you may prefer to use a diagram to visualize the workflow. The diagram will be similar to the questions, but it presents the information in a more visual way. Diagrams can be more memorable and easier to understand because of their visual nature. Additionally, one advantage of a diagram is that it enables users to return to previous steps if necessary.
+
+We are considering two approaches for creating a diagram: static and dynamic. The static diagram will include general headings, such as the seven main steps in the workflow. The dynamic diagram, on the other hand, will be shaped by the project or user and will include questions similar to those in the guided questions section.
+
+Using a diagram can make it easier to understand and follow the workflow. The static diagram provides a general overview of the workflow, while the dynamic diagram can be customized to fit the needs of the specific project or user. Ultimately, the choice between the two approaches will depend on the user's preferences and the specific project's requirements.
+
+## Architecture
+
+[Architecture ](MachineLearningWorkflow/Pages/Architecture.md)
+
+## How to Contribute?
+
+## Upcoming features
 
 ---
 
@@ -294,19 +347,7 @@ ___
 ## Bonus : Agile
 
 
----
 
----
-___
-***
-
-## Architecture
-
-[Architecture ](MachineLearningWorkflow/Pages/Architecture.md)
-
-## How to Contribute?
-
-## Upcoming features
 
 
 
