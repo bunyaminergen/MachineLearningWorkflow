@@ -1,8 +1,21 @@
 # Main Topic Page
 
-# **What is … (toggle heading 1 all)**
+Her başlık aşağıda anlatıldığı gibi oluşturulmalı. Eğer başlığa uygun bir alt başlık yoksa
+Örneğin bir konunun math başlığı yani matematiksel bir alt başlığı yoksa es geçilmeli.
 
-### tek cumle anlatim (heading 3)
+Ana başlıklar markdow # ile belirtilmesi
+
+Her başlık ve sayfada mümkün olduğunca görselleştirme kullanılmalı...
+
+Bonus ekleme: 
+
+O konuya paralel, bir şekilde zıt ve/veya paralel olarak dokunan ve/veya destekleyen podcast,makale, terim, kavram
+başka bir yaklaşım varsa eklenebilir.
+
+# **What is … **
+
+
+### tek cumle anlatim
 
 ….
 
@@ -13,7 +26,7 @@
 ### Maddeler halinde anlatim (heading 3)
 …
 
-# Math or/and Logic of …
+# Math or/and Logic of … 
 
 matematik formulu eger varsa
 
@@ -25,20 +38,20 @@ neden yapilir, avantajlari ve dezavantajlari neler gibi
 
 # **History of …**
 
-# Methods of …
+# **Methods of … **
 
-# Most Common …
+# **Most Common …**
 
-# How to perform …
+# **How to perform …**
 
-# Examples of …
+# **Examples of …**
 
-# Codes
+# **Codes**
 
-# Papers
+# **Papers**
 
-# Pages
+# **Pages**
 
-# Synonyms of …
+# **Synonyms of …**
 
 # *Bonuses*
