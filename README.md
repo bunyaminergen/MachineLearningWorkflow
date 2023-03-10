@@ -301,7 +301,7 @@ ___
 
 ## Architecture
 
-[Architecture ](ML%20WORKFLOW%207866bc6d88d44315a6521ead9e89d857/Architecture%20b6fca36819cd4fedb67e93aadf6c65ee.md)
+[Architecture ](MachineLearningWorkflow/Pages/Architecture.md)
 
 ## How to Contribute?
 
