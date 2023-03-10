@@ -248,7 +248,7 @@ Feature Engineering ...
     - ### [Versioning](page.md) 
     - ### [Logging](page.md) 
     - ### [Security and Privacy](page.md) 
-      - #### [Adversarial Attacks](MachineLearningWorkflow/AdversarialAttacks.md)
+      - #### [Adversarial Attacks](MachineLearningWorkflow/Pages/AdversarialAttacks.md)
 
 ---
 
