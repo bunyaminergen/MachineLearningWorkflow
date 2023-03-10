@@ -1,6 +1,27 @@
 # Architecture
 
-# Main Topic ( Toggle Heading 1 )
+# Main Topic 
+
+Main Topic's short brief
+
+[Main Topic Page](MachineLearningWorkflow/Pages/MainTopicPage.md)
+
+  - ## [Sub Topic Page](page.md)
+    - ### [Classification](page.md) 
+    - ### [Regression](page.md)
+  - ## [Semi Supervised](page.md)
+    - ### [Page](page.md)
+  - ## [Self Supervised](page.md)
+    - ### [Page](page.md)
+  - ## [Unsupervised](page.md)
+    - ### [Page](page.md)
+  - ## [Reinforcement](page.md)
+    - ### [Page](page.md) 
+  - ## [Deep Learning](page.md)
+    - ### [Page](page.md) 
+
+
+# 
 
 [Main Topic Page](MachineLearningWorkflow/Pages/MainTopicPage.md)
 
