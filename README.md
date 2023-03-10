@@ -23,7 +23,7 @@ Goal Types below...
     - [Customer Obsession](goal.md)
     - [Business Problem](MachineLearningWorkflow/Pages/BusinessProblem.md)
   - ## [Research](goal.md)
-    - [Page](page.md)
+    - [Research Problem](MachineLearningWorkflow/Pages/ResearchProblem.md)
   - ## [Hybrid](goal.md)
     - [Page](page.md)
 
