@@ -36,22 +36,22 @@ ayrica yapilan islemin arkasindaki mantik ( mesela padding islemi, pooling islem
 
 neden yapilir, avantajlari ve dezavantajlari neler gibi
 
-# **History of …**
+# History of …
 
-# **Methods of … **
+# Methods of … 
 
-# **Most Common …**
+# Most Common …
 
-# **How to perform …**
+# How to perform …
 
-# **Examples of …**
+# Examples of …
 
-# **Codes**
+# Codes
 
-# **Papers**
+# Papers
 
-# **Pages**
+# Pages
 
-# **Synonyms of …**
+# Synonyms of …
 
-# *Bonuses*
+# Bonuses

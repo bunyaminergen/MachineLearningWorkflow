@@ -71,13 +71,52 @@ Instead, we recommend that you identify your project goals and follow the steps 
 
 ![Diagram](MachineLearningWorkflow/img/MLWorkflowDiagram.png)
 
-## Architecture
-
-[Architecture](MachineLearningWorkflow/Pages/Architecture.md)
-
 ## How to Contribute?
 
+In this article, will discuss how you can contribute to Machine Learning Workflow project. 
+We welcome your collaboration in making corrections and adding information. 
+If you want to add a new page, please refer to the Architecture section for the page structure and fill it accordingly. 
+If you decide to skip a heading or add a new one, please let us know the reason.
+<br>
+Contributing to a project is a great way to give back to the community and improve the quality of the project. 
+Here are some ways you can contribute:
+<br>
+- Report issues: If you encounter any issues while using the project, please report them to us. 
+This will help us identify and fix the problems.
+<br>
+- Fix issues: If you have the technical expertise, you can fix the issues yourself and submit a pull request.
+<br>
+- Add new features: If you have an idea for a new feature, you can implement it and submit a pull request.
+<br>
+- Write documentation: Good documentation is essential for any project. If you have good writing skills, 
+you can contribute by writing documentation.
+<br>
+- Test the project: Testing the project and reporting any bugs or issues is a valuable contribution.
+<br>
+- Spread the word: If you believe in the project, you can help by spreading the word and encouraging others to use it.
+
+In conclusion, contributing to a project is a great way to improve the quality of the project and give back to 
+the community. We welcome your contributions and look forward to working with you.
+
+## Architecture
+
+- # [Main Topic Page](MachineLearningWorkflow/Pages/MainTopicPage.md)
+  Main Topic's short brief
+
+  - ## [Sub Topic Page](MachineLearningWorkflow/Pages/SubTopicPage.md)
+    - ### [Sub Topic Page](MachineLearningWorkflow/Pages/SubTopicPage.md) 
+      - #### [Sub Topic Page](MachineLearningWorkflow/Pages/SubTopicPage.md)
+        - ##### [Sub Topic Page](MachineLearningWorkflow/Pages/SubTopicPage.md)
+          - ###### [Sub Topic Page](MachineLearningWorkflow/Pages/SubTopicPage.md)
+  - ## [Sub Topic Page](MachineLearningWorkflow/Pages/SubTopicPage.md)
+    - ### [Sub Topic Page](MachineLearningWorkflow/Pages/SubTopicPage.md)
+      - #### [Sub Topic Page](MachineLearningWorkflow/Pages/SubTopicPage.md)
+        - ##### [Sub Topic Page](MachineLearningWorkflow/Pages/SubTopicPage.md)
+          - ###### [Sub Topic Page](MachineLearningWorkflow/Pages/SubTopicPage.md)
+
 ## Upcoming features
+
+- Workflow Diagram
 
 ---
 
