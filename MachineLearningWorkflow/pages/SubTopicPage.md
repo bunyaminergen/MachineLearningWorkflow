@@ -5,28 +5,43 @@ For example, if a topic or/and subbtopic does not related math, mathematical sub
 > Adding bonus sections:
 > Podcast, article, term, concept that touches and/or supports parallel to, in a way, and/or parallel to that subject.
 It can be added if there is another approach.
+> For more please visit example page Adversarial Attacks
 
 # Sub Topic Page
 
-# What is … 
+Write a concise sentence that summarizes the topic of the page.
 
-Konunun tek cümle ile anlatımı
+provide a more comprehensive explanation of the topic, breaking it down into its different aspects and explaining 
+each one in more detail. Use paragraphs to separate the different sections. 
 
-Konunun daha detaylı anlatımı
-
-Maddeler halinde anlatim 
+Create a bullet-point outline of the page, listing the different sections you plan to cover and the order in 
+which you will cover them. This will help you organize your thoughts and ensure that your page flows logically.
 
 # Math or/and Logic of …
 
-matematik formulu eger varsa
+Math or/and Logic of ...
 
-formulun gorseli ve aciklanmasi, degiskenler neyi sembolize ettigi ne anlama geldigi falan
+**Formula (if applicable)**
+If there is a mathematical formula related to the topic, provide it along with an explanation of each variable 
+and what it represents. Include a visual representation of the formula if possible.
 
-ayrica yapilan islemin arkasindaki mantik ( mesela padding islemi, pooling islemi gibi)
+**Logic Behind the Topic**
+Explain the logic behind the topic, such as why it is performed, what it achieves, and how it works. 
+For example, if the topic is "Padding in Neural Networks," you could explain why padding is used in neural networks, 
+how it helps to maintain the spatial dimensions of the input, and how it is implemented in practice.
 
-neden yapilir, avantajlari ve dezavantajlari neler gibi
+**Advantages and Disadvantages**
+Discuss the advantages and disadvantages of the operation.
+For example, if the topic is "Pooling in Convolutional Neural Networks," you could explain the benefits of pooling 
+for reducing the spatial dimensions of the input and increasing the computational efficiency of the network, 
+as well as potential downsides such as losing some information in the process.
+
+By following this structure, you can create a well-organized and informative page that provides a 
+thorough understanding of the math and logic behind a particular operation or concept.
 
 # History of …
+
+**Chronological Order (if applicable)**
 
 # Methods of … 
 

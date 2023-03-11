@@ -1,6 +1,6 @@
 # Adversarial Attacks
 
-## **What is Adversarial Attack**
+## What is Adversarial Attack
 
 Adversarial attack refers to the deliberate manipulation of input data, 
 typically in the context of machine learning models, with the intention of causing the model 
@@ -15,7 +15,10 @@ Adversarial attack refers to a technique used to deliberately mislead or confuse
 - Adversarial attacks are of concern because they can potentially compromise the security and reliability of machine learning applications, especially those used in critical domains such as healthcare or autonomous driving.
 - Researchers and practitioners are actively working on developing defenses against adversarial attacks, such as robust models and detection mechanisms.
 
-## **History of Adversarial Attack**
+## Logic of Adversarial Attacks
+
+
+## History of Adversarial Attack
 
 Adversarial attacks have a long history in the field of computer security and cryptography. Some of the earliest adversarial attacks were performed against encryption systems, where the adversary would try to manipulate the encrypted message to recover the plaintext or to cause the decryption system to fail.
 
@@ -84,7 +87,7 @@ In adversarial machine learning, there are several threat models that are common
 
 These threat models are commonly used to evaluate the robustness of machine learning models and to identify potential weaknesses that can be exploited by adversaries.
 
-## How to perform an **Adversarial Attack**
+## How to perform an Adversarial Attack
 
 Adversarial attacks are performed by adding small, carefully crafted perturbations to input data, in order to cause a machine learning model to make incorrect predictions. Here are the general steps to perform an adversarial attack:
 
@@ -96,7 +99,7 @@ Adversarial attacks are performed by adding small, carefully crafted perturbatio
 
 Note that adversarial attacks are often used to evaluate the robustness and security of machine learning models, so it's important to conduct them in an ethical and responsible manner.
 
-## Examples of **Adversarial Attack**
+## Examples of Adversarial Attack
 
 - **Adversarial Attacks on SMS Spam Detectors by Lowri Williams**
     
@@ -471,3 +474,6 @@ Ways to find the weaknesses of the recently popular Chat GPT can be tried.
 ### *Bonus* : Noise reduction (Denoisining)
 
 [https://en.wikipedia.org/wiki/Noise_reduction](https://en.wikipedia.org/wiki/Noise_reduction)
+
+
+
