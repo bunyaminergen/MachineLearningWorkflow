@@ -7,12 +7,12 @@ Specifying main titles with markdow #
 
 Visualization should be used as much as possible on each title and page...
 
-Adding bonus:
+Adding bonus sections:
 
 Podcast, article, term, concept that touches and/or supports parallel to, in a way, and/or parallel to that subject.
 It can be added if there is another approach.
 
-# **What is … **
+# What is … 
 
 
 ### tek cumle anlatim
@@ -36,22 +36,22 @@ ayrica yapilan islemin arkasindaki mantik ( mesela padding islemi, pooling islem
 
 neden yapilir, avantajlari ve dezavantajlari neler gibi
 
-# **History of …**
+# History of …
 
-# **Methods of … **
+# Methods of … 
 
-# **Most Common …**
+# Most Common …
 
-# **How to perform …**
+# How to perform …
 
-# **Examples of …**
+# Examples of …
 
-# **Codes**
+# Codes
 
-# **Papers**
+# Papers
 
-# **Pages**
+# Pages
 
-# **Synonyms of …**
+# Synonyms of …
 
-# *Bonuses*
+# Bonuses

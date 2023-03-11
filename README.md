@@ -107,7 +107,7 @@ Under the Architecture section, you will find the recommended page structures. I
 please ensure that it follows the structure provided. 
 This will ensure that the project remains organized and easy to navigate.
 
-- # [Main Topic Page](MachineLearningWorkflow/Pages/MainTopicPage.md)
+- # Main Topic
   Main Topic's short brief
 
   - ## [Sub Topic Page](MachineLearningWorkflow/Pages/SubTopicPage.md)
