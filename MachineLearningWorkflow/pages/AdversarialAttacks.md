@@ -369,7 +369,7 @@ If I have a study that includes Adversarial Attack or Adversarial Patch, I will 
 
 - Adversarial Classification
 
-    [Adversarial Classification](MachineLearningWorkflow/docs/AdversarialClassification.pdf)
+    [Adversarial Classification](MachineLearningWorkflow/MachineLearningWorkflow/docs/AdversarialClassification.pdf)
     
 - Can Machine Learning Be Secure
     
