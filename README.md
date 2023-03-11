@@ -67,7 +67,7 @@ Instead, we recommend that you identify your project goals and follow the steps 
 
 Örnek statik diagram:
 
-![Diagram]()
+![Diagram](MachineLearningWorkflow/img/MLWorkflowDiagram.png)
 
 ## Architecture
 
