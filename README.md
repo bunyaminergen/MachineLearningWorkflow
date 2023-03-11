@@ -11,6 +11,8 @@ This workflow is continually being updated with new topics and information to en
 
 The workflow consists of seven main steps:
 
+
+
 1. Goal
 2. Learning
 3. Data
@@ -359,19 +361,6 @@ ___
 ## Bonus : Tuckman Model
 
 ## Bonus : Agile
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
