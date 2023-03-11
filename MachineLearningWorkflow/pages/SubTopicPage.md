@@ -5,7 +5,7 @@ For example, if a topic or/and subbtopic does not related math, mathematical sub
 > Adding bonus sections:
 > Podcast, article, term, concept that touches and/or supports parallel to, in a way, and/or parallel to that subject.
 It can be added if there is another approach.
-> For more please visit example page [Adversarial Attacks](MachineLearningWorkflow/pages/AdversarialAttacks.md)
+> For more please visit example page [Adversarial Attacks](AdversarialAttacks.md)
 
 # Sub Topic Page
 
