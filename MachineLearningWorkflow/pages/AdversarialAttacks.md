@@ -375,15 +375,6 @@ If I have a study that includes Adversarial Attack or Adversarial Patch, I will 
     
     [https://people.eecs.berkeley.edu/~adj/publications/paper-files/asiaccs06.pdf](https://people.eecs.berkeley.edu/~adj/publications/paper-files/asiaccs06.pdf)
 
-<object data="https://people.eecs.berkeley.edu/~adj/publications/paper-files/asiaccs06.pdf" type="application/pdf" width="100%" height="600">
-  <p>Your browser doesn't support PDF embedding.</p>
-</object>
-
-<iframe src="https://people.eecs.berkeley.edu/~adj/publications/paper-files/asiaccs06.pdf" width="100%" height="600">
-  <p>Your browser doesn't support PDF embedding.</p>
-</iframe>
-
-
 - Filtering Image Spam with Near-Duplicate Detection
     
     [https://www.cs.princeton.edu/cass/papers/spam_ceas07.pdf](https://www.cs.princeton.edu/cass/papers/spam_ceas07.pdf)
