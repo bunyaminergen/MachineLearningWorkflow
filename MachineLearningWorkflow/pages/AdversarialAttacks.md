@@ -379,6 +379,9 @@ If I have a study that includes Adversarial Attack or Adversarial Patch, I will 
   <p>Your browser doesn't support PDF embedding.</p>
 </object>
 
+<iframe src="https://people.eecs.berkeley.edu/~adj/publications/paper-files/asiaccs06.pdf" width="100%" height="600">
+  <p>Your browser doesn't support PDF embedding.</p>
+</iframe>
 
 
 - Filtering Image Spam with Near-Duplicate Detection
