@@ -83,16 +83,11 @@ Here are some ways you can contribute:
 <br>
 - Report issues: If you encounter any issues while using the project, please report them to us. 
 This will help us identify and fix the problems.
-<br>
 - Fix issues: If you have the technical expertise, you can fix the issues yourself and submit a pull request.
-<br>
 - Add new features: If you have an idea for a new feature, you can implement it and submit a pull request.
-<br>
 - Write documentation: Good documentation is essential for any project. If you have good writing skills, 
 you can contribute by writing documentation.
-<br>
 - Test the project: Testing the project and reporting any bugs or issues is a valuable contribution.
-<br>
 - Spread the word: If you believe in the project, you can help by spreading the word and encouraging others to use it.
 
 In conclusion, contributing to a project is a great way to improve the quality of the project and give back to 
