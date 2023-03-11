@@ -5,7 +5,9 @@
 Adversarial attack refers to the deliberate manipulation of input data, 
 typically in the context of machine learning models, with the intention of causing the model 
 to misclassify or produce erroneous results.
+
 <br>
+
 Adversarial attack refers to a technique used to deliberately mislead or confuse a machine learning model, by presenting it with carefully crafted input samples. These inputs, called adversarial examples, are specifically designed to cause the model to make incorrect predictions, even though they are similar to normal inputs in most respects. The goal of adversarial attacks is to evaluate the robustness and security of machine learning systems and highlight their limitations.
 
 ## **History of Adversarial Attack**
