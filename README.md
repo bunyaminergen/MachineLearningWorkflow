@@ -105,16 +105,16 @@ This will ensure that the project remains organized and easy to navigate.
 - # Main Topic
   Main Topic's short brief
 
-  - ## [Sub Topic Page](MachineLearningWorkflow/Pages/SubTopicPage.md)
-    - ### [Sub Topic Page](MachineLearningWorkflow/Pages/SubTopicPage.md) 
-      - #### [Sub Topic Page](MachineLearningWorkflow/Pages/SubTopicPage.md)
-        - ##### [Sub Topic Page](MachineLearningWorkflow/Pages/SubTopicPage.md)
-          - ###### [Sub Topic Page](MachineLearningWorkflow/Pages/SubTopicPage.md)
-  - ## [Sub Topic Page](MachineLearningWorkflow/Pages/SubTopicPage.md)
-    - ### [Sub Topic Page](MachineLearningWorkflow/Pages/SubTopicPage.md)
-      - #### [Sub Topic Page](MachineLearningWorkflow/Pages/SubTopicPage.md)
-        - ##### [Sub Topic Page](MachineLearningWorkflow/Pages/SubTopicPage.md)
-          - ###### [Sub Topic Page](MachineLearningWorkflow/Pages/SubTopicPage.md)
+  - ## [Sub Topic Page](MachineLearningWorkflow/pages/SubTopicPage.md)
+    - ### [Sub Topic Page](MachineLearningWorkflow/pages/SubTopicPage.md) 
+      - #### [Sub Topic Page](MachineLearningWorkflow/pages/SubTopicPage.md)
+        - ##### [Sub Topic Page](MachineLearningWorkflow/pages/SubTopicPage.md)
+          - ###### [Sub Topic Page](MachineLearningWorkflow/pages/SubTopicPage.md)
+  - ## [Sub Topic Page](MachineLearningWorkflow/pages/SubTopicPage.md)
+    - ### [Sub Topic Page](MachineLearningWorkflow/pages/SubTopicPage.md)
+      - #### [Sub Topic Page](MachineLearningWorkflow/pages/SubTopicPage.md)
+        - ##### [Sub Topic Page](MachineLearningWorkflow/pages/SubTopicPage.md)
+          - ###### [Sub Topic Page](MachineLearningWorkflow/pages/SubTopicPage.md)
 
 ## Upcoming features
 
@@ -134,9 +134,9 @@ Goal Types below...
   - ## [Business](goal.md)
 
     - [Customer Obsession](goal.md)
-    - [Business Problem](MachineLearningWorkflow/Pages/BusinessProblem.md)
+    - [Business Problem](MachineLearningWorkflow/pages/BusinessProblem.md)
   - ## [Research](goal.md)
-    - [Research Problem](MachineLearningWorkflow/Pages/ResearchProblem.md)
+    - [Research Problem](MachineLearningWorkflow/pages/ResearchProblem.md)
   - ## [Hybrid](goal.md)
     - [Page](page.md)
 
@@ -361,7 +361,7 @@ Feature Engineering ...
     - ### [Versioning](page.md) 
     - ### [Logging](page.md) 
     - ### [Security and Privacy](page.md) 
-      - #### [Adversarial Attacks](MachineLearningWorkflow/Pages/AdversarialAttacks.md)
+      - #### [Adversarial Attacks](MachineLearningWorkflow/pages/AdversarialAttacks.md)
 
 ---
 
