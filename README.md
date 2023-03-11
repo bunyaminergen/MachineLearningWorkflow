@@ -98,7 +98,14 @@ you can contribute by writing documentation.
 In conclusion, contributing to a project is a great way to improve the quality of the project and give back to 
 the community. We welcome your contributions and look forward to working with you.
 
-## Architecture
+## Architecture of Machine Learning Workflow
+
+This section is intended to guide you on how to structure your pages when contributing to the project. 
+The project is structured in a way that each page has a specific purpose and layout.
+<br>
+Under the Architecture section, you will find the recommended page structures. If you wish to add a new page, 
+please ensure that it follows the structure provided. 
+This will ensure that the project remains organized and easy to navigate.
 
 - # [Main Topic Page](MachineLearningWorkflow/Pages/MainTopicPage.md)
   Main Topic's short brief
