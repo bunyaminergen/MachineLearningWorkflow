@@ -379,6 +379,7 @@ If I have a study that includes Adversarial Attack or Adversarial Patch, I will 
     
     [https://www.cs.princeton.edu/cass/papers/spam_ceas07.pdf](https://www.cs.princeton.edu/cass/papers/spam_ceas07.pdf)
     
+
 - Poisoning Attacks against Support Vector Machines
     
     [https://arxiv.org/pdf/1206.6389v3.pdf](https://arxiv.org/pdf/1206.6389v3.pdf)
