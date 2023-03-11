@@ -1,4 +1,4 @@
-# Machine Learning Workflow
+# Machine Learning Workflow Project
 
 > “*Mathematics has always existed. Humans discovered it. Mathematics is essentially a matter of patience. It should be understood not by memorizing, but by discovering.” -* **Cahit Arf**
 > 
@@ -119,6 +119,9 @@ the community. We welcome your contributions and look forward to working with yo
 - Workflow Diagram
 
 ---
+
+# Machine Learning Workflow
+
 
 # Goal
 
