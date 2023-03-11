@@ -65,6 +65,10 @@ In fact, in the "How to Use" section, we advise you not to dive deep into all th
 as it may cause you to lose your way. 
 Instead, we recommend that you identify your project goals and follow the steps accordingly.
 
+Örnek statik diagram:
+
+![Diagram]()
+
 ## Architecture
 
 [Architecture](MachineLearningWorkflow/Pages/Architecture.md)
