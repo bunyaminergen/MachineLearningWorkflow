@@ -20,8 +20,6 @@ which you will cover them. This will help you organize your thoughts and ensure 
 
 # Math or/and Logic of …
 
-Math or/and Logic of ...
-
 **Formula (if applicable)**
 If there is a mathematical formula related to the topic, provide it along with an explanation of each variable 
 and what it represents. Include a visual representation of the formula if possible.
