@@ -198,6 +198,7 @@ Machine Learning Learning Types
     - ### Bonus
       - [Big Data](page.md)
       - [Dark Data](page.md)
+      - [Small Data](page.md)
 
   - ## [Collection](page.md)
     Collection of Data ...
