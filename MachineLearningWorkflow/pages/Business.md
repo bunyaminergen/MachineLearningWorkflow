@@ -26,7 +26,6 @@ will benefit the business, and what specific outcomes or results the business ho
 aligned with the overall objectives of the organization, and the machine learning model will provide practical 
 and valuable insights.
 
-
 # Methods of Business Goals
 
 - [Customer Obsession](MachineLearningWorkflow/pages/CustomerObsession.md): As you mentioned, customer obsession can be a valuable concept to consider. This means placing the customer at the center of the project and focusing on delivering a solution that meets their needs and expectations.
