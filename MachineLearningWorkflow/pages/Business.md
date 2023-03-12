@@ -41,3 +41,4 @@ and valuable insights.
 - **Flexibility**: Business goals should be flexible and adaptable to changing circumstances. This can involve revising goals as necessary to account for unexpected events or new opportunities.
 
 - **Time-bound**: Goals should be time-bound with a specific deadline for achievement. This can help create a sense of urgency and motivate the team to work towards the goal.
+

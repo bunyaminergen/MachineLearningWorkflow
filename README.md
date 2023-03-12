@@ -154,8 +154,11 @@ There are three subtopics to consider when defining the goal of a machine learni
     - [KPIs](MachineLearningWorkflow/pages/KPIs.md)
     - [ROI](MachineLearningWorkflow/pages/ROI.md)
 
-  - ## [Research](SubPage.md)
-    - [SubPage](MachineLearningWorkflow/pages/SubPage.md)
+  - ## [Research](MachineLearningWorkflow/pages/Research.md)
+    - [Research Design](MachineLearningWorkflow/pages/ResearchDesign.md)
+    - [Ethical Considerations](MachineLearningWorkflow/pages/EthicalConsiderations.md)
+    - [Validity and Reliability](MachineLearningWorkflow/pages/ValidityAndReliability.md)
+    - [Dissemination](MachineLearningWorkflow/pages/Dissemination.md)
 
   - ## [Hybrid](SubPage.md)
     - [SubPage](SubPage.md)
