@@ -186,9 +186,11 @@ diagnostic or prognostic tools.
 
 Questions to ask when setting a Research Goal:
 
--	What is the research question that needs to be answered?
--	How will the machine learning solution contribute to the existing knowledge?
--	What are the metrics to measure the novelty and usefulness of the findings?
+- What is the research question that needs to be answered? 
+- How will the machine learning solution contribute to the existing knowledge? 
+- What are the metrics to measure the novelty and usefulness of the findings?
+- What data sources or datasets will be used for the research? 
+- What are the potential limitations or challenges that need to be addressed?
 
 Overall, the research goal should be focused on advancing the state-of-the-art and contributing new knowledge 
 to the field, while also considering the potential practical applications and benefits of the research findings.
@@ -204,10 +206,11 @@ that outperforms existing models while also exploring new techniques for anomaly
 
 Questions to ask when setting a Hybrid Goal:
 
--	What is the specific problem that needs to be solved?
--	How will the machine learning solution benefit the business or industry?
--	What new knowledge or insights can be gained through the project?
--	What are the metrics to measure the success of the project in terms of both business and research goals?
+- What is the specific problem that needs to be solved? 
+- How will the machine learning solution benefit the business or industry? 
+- What new knowledge or insights can be gained through the project? 
+- What are the metrics to measure the success of the project in terms of both business and research goals?
+- What are the potential risks or trade-offs involved in pursuing a hybrid goal, and how can they be addressed?
 
 Overall, a hybrid goal in a machine learning project aims to solve a real-world problem while also 
 exploring new knowledge or insights. This type of goal is often seen in academic-industry collaborations 
