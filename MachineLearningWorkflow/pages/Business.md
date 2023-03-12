@@ -26,35 +26,22 @@ will benefit the business, and what specific outcomes or results the business ho
 aligned with the overall objectives of the organization, and the machine learning model will provide practical 
 and valuable insights.
 
-# Math or/and Logic of …
 
-**Formula (if applicable)**
-If there is a mathematical formula related to the topic, provide it along with an explanation of each variable 
-and what it represents. Include a visual representation of the formula if possible.
+# Methods of Business Goals
 
-**Logic Behind the Topic**
-Explain the logic behind the topic, such as why it is performed, what it achieves, and how it works. 
-For example, if the topic is "Padding in Neural Networks," you could explain why padding is used in neural networks, 
-how it helps to maintain the spatial dimensions of the input, and how it is implemented in practice.
+- [Customer Obsession](MachineLearningWorkflow/pages/CustomerObsession.md): As you mentioned, customer obsession can be a valuable concept to consider. This means placing the customer at the center of the project and focusing on delivering a solution that meets their needs and expectations.
 
-**Advantages and Disadvantages**
-Discuss the advantages and disadvantages of the operation.
-For example, if the topic is "Pooling in Convolutional Neural Networks," you could explain the benefits of pooling 
-for reducing the spatial dimensions of the input and increasing the computational efficiency of the network, 
-as well as potential downsides such as losing some information in the process.
+- [Feasibility](MachineLearningWorkflow/pages/Feasibility.md): The objective should be technically feasible given the resources and technology available. The project team should have the necessary skills and expertise to deliver the solution.
 
-By following this structure, you can create a well-organized and informative page that provides a 
-thorough understanding of the math and logic behind a particular operation or concept.
+- [ROI](MachineLearningWorkflow/pages/ROI.md): The return on investment (ROI) should also be considered. The objective should be realistic and achievable within the budget and time constraints of the project.
 
-# History of …
+- **Measurability**: Goals should be measurable so that progress can be tracked and success can be determined. This could involve defining specific metrics or key performance indicators [KPIs](MachineLearningWorkflow/pages/KPIs.md)
 
-**Chronological Order (if applicable)**
+- **Alignment**: Business goals should be aligned with the goals and objectives of other departments and teams within the organization. This can ensure that everyone is working towards a common purpose.
 
-# Methods of … 
+- **Flexibility**: Business goals should be flexible and adaptable to changing circumstances. This can involve revising goals as necessary to account for unexpected events or new opportunities.
 
-List the different methods or approaches related to the topic. 
-For example, if the topic is "Data Analysis," you could include methods 
-such as regression analysis, cluster analysis, and decision tree analysis.
+- **Time-bound**: Goals should be time-bound with a specific deadline for achievement. This can help create a sense of urgency and motivate the team to work towards the goal.
 
 # Most Common …
 

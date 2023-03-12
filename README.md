@@ -152,8 +152,12 @@ There are three subtopics to consider when defining the goal of a machine learni
 
    
   - ## [Business](MachineLearningWorkflow/pages/Business.md)
-    - [Customer Obsession](goal.md)
-    - [Business Problem](MachineLearningWorkflow/pages/BusinessProblem.md)
+    - [Customer Obsession](MachineLearningWorkflow/pages/CustomerObsession.md)
+    - [Feasibility](MachineLearningWorkflow/pages/Feasibility.md)
+    - [KPIs](MachineLearningWorkflow/pages/KPIs.md)
+    - [ROI](MachineLearningWorkflow/pages/ROI.md)
+    - [KPIs](MachineLearningWorkflow/pages/KPIs.md)
+
   - ## [Research](goal.md)
     - [Research Problem](MachineLearningWorkflow/pages/ResearchProblem.md)
   - ## [Hybrid](goal.md)
