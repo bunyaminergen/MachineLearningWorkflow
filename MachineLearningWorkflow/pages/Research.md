@@ -26,14 +26,14 @@ to the field, while also considering the potential practical applications and be
 
 # Methods of Research
 
-- Research Design: This involves selecting an appropriate research design or approach, such as experimental, correlational, 
+- [Research Design](MachineLearningWorkflow/pages/ResearchDesign.md): This involves selecting an appropriate research design or approach, such as experimental, correlational, 
 or qualitative research methods.
 
-- Ethical Considerations: Researchers must consider ethical issues related to the research project, such as obtaining informed consent from participants, protecting their confidentiality and privacy, and ensuring that the research is conducted in an ethical and responsible manner.
+- [Ethical Considerations](MachineLearningWorkflow/pages/EthicalConsiderations.md): Researchers must consider ethical issues related to the research project, such as obtaining informed consent from participants, protecting their confidentiality and privacy, and ensuring that the research is conducted in an ethical and responsible manner.
 
-- Validity and Reliability: Researchers must consider the validity and reliability of their research findings, ensuring that their results accurately reflect the phenomenon being studied and are consistent across different data sources or samples.
+- [Validity and Reliability](MachineLearningWorkflow/pages/ValidityAndReliability.md): Researchers must consider the validity and reliability of their research findings, ensuring that their results accurately reflect the phenomenon being studied and are consistent across different data sources or samples.
 
-- Dissemination: Finally, researchers must consider how they will disseminate their findings to relevant audiences, such as academic journals, conferences, or stakeholders in the field.
+- [Dissemination](MachineLearningWorkflow/pages/Dissemination.md): Finally, researchers must consider how they will disseminate their findings to relevant audiences, such as academic journals, conferences, or stakeholders in the field.
 
 # Bonus:
 
