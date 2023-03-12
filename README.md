@@ -147,7 +147,7 @@ In summary, The Goal of a Machine Learning Project should clearly define the pro
 Asking the right questions can help to find the right goals and set the project in the right direction.
 There are three subtopics to consider when defining the goal of a machine learning project: Business, Research, and Hybrid.
 
--	Business:
+- ### Business:
 
 The main aim of a business goal is to solve a particular problem that will benefit a company or organization. 
 The goal is usually related to optimizing a process, improving efficiency, reducing costs, increasing revenue, 
@@ -157,11 +157,11 @@ customer loss and increase customer retention.
 
 Questions to ask when setting a Business Goal:
 
--	What specific problem does the business want to solve with machine learning?
--	How will the machine learning solution benefit the business?
--	What data sources are available or needed to accomplish the goal?
--	What are the expected costs and benefits of the project?
--	How will the success of the project be measured?
+- What specific problem does the business want to solve with machine learning? 
+- How will the machine learning solution benefit the business? 
+- What data sources are available or needed to accomplish the goal? 
+- What are the expected costs and benefits of the project? 
+- How will the success of the project be measured?
 
 Overall, Business goals in a Machine Learning Project is crucial for ensuring that the project is focused on 
 solving specific problems that will benefit the organization. The goal should be well-defined and measurable, 
@@ -171,7 +171,7 @@ benefit the business, and what specific outcomes or results the business hopes t
 aligned with the overall objectives of the organization, and the machine learning model will provide practical 
 and valuable insights.
 
--	Research:
+- ### Research:
 
 The main objective of a research goal is to explore and gain new knowledge or insights about a particular subject. 
 Research goals are more open-ended and less focused on solving a specific problem compared to business goals. 
@@ -195,7 +195,7 @@ Questions to ask when setting a Research Goal:
 Overall, the research goal should be focused on advancing the state-of-the-art and contributing new knowledge 
 to the field, while also considering the potential practical applications and benefits of the research findings.
 
--	Hybrid:
+- ### Hybrid:
 
 A hybrid goal combines elements of both business and research goals. 
 The objective is to solve a real-world problem while also exploring new knowledge or insights. 
