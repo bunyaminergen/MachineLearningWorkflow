@@ -147,83 +147,11 @@ In summary, The Goal of a Machine Learning Project should clearly define the pro
 Asking the right questions can help to find the right goals and set the project in the right direction.
 There are three subtopics to consider when defining the goal of a machine learning project: Business, Research, and Hybrid.
 
-- ### Business:
 
-The main aim of a business goal is to solve a particular problem that will benefit a company or organization. 
-The goal is usually related to optimizing a process, improving efficiency, reducing costs, increasing revenue, 
-or enhancing customer experience. A business goal should be well-defined and measurable, so it can be evaluated 
-in terms of success or failure. For instance, a business goal could be to predict customer churn rate to reduce 
-customer loss and increase customer retention.
 
-Questions to ask when setting a Business Goal:
-
-- What specific problem does the business want to solve with machine learning? 
-- How will the machine learning solution benefit the business? 
-- What data sources are available or needed to accomplish the goal? 
-- What are the expected costs and benefits of the project? 
-- How will the success of the project be measured?
-
-Overall, Business goals in a Machine Learning Project is crucial for ensuring that the project is focused on 
-solving specific problems that will benefit the organization. The goal should be well-defined and measurable, 
-with a clear objective of optimizing processes, reducing costs, increasing revenue, or enhancing customer experience. 
-By answering critical questions such as what problem the business wants to solve, how the machine learning solution will 
-benefit the business, and what specific outcomes or results the business hopes to achieve, the project will be 
-aligned with the overall objectives of the organization, and the machine learning model will provide practical 
-and valuable insights.
-
-- ### Research:
-
-The main objective of a research goal is to explore and gain new knowledge or insights about a particular subject. 
-Research goals are more open-ended and less focused on solving a specific problem compared to business goals. 
-The goal could be to develop a new algorithm or model or to explore a new dataset. 
-The success of a research goal is usually measured by the novelty and usefulness of the findings.
-
-In an academic-industrial research collaboration, the goal could be to investigate the underlying causes and mechanisms 
-of a particular disease to develop a new treatment or diagnostic method. The research goal could involve exploring 
-new datasets or developing new algorithms to analyze complex biological data. The success of the research goal could be 
-measured by the discovery of new biomarkers or therapeutic targets, or the development of more accurate 
-diagnostic or prognostic tools.
-
-Questions to ask when setting a Research Goal:
-
-- What is the research question that needs to be answered? 
-- How will the machine learning solution contribute to the existing knowledge? 
-- What are the metrics to measure the novelty and usefulness of the findings?
-- What data sources or datasets will be used for the research? 
-- What are the potential limitations or challenges that need to be addressed?
-
-Overall, the research goal should be focused on advancing the state-of-the-art and contributing new knowledge 
-to the field, while also considering the potential practical applications and benefits of the research findings.
-
-- ### Hybrid:
-
-A hybrid goal combines elements of both business and research goals. 
-The objective is to solve a real-world problem while also exploring new knowledge or insights. 
-Hybrid goals are common in academic-industry collaborations or startup companies. 
-The goal could be to develop a new machine learning model that solves a specific problem 
-while also improving the state-of-the-art. For instance, a hybrid goal could be to develop a new fraud detection model 
-that outperforms existing models while also exploring new techniques for anomaly detection.
-
-Questions to ask when setting a Hybrid Goal:
-
-- What is the specific problem that needs to be solved? 
-- How will the machine learning solution benefit the business or industry? 
-- What new knowledge or insights can be gained through the project? 
-- What are the metrics to measure the success of the project in terms of both business and research goals?
-- What are the potential risks or trade-offs involved in pursuing a hybrid goal, and how can they be addressed?
-
-Overall, a hybrid goal in a machine learning project aims to solve a real-world problem while also 
-exploring new knowledge or insights. This type of goal is often seen in academic-industry collaborations 
-or startup companies. The success of a hybrid goal is measured by both the improvement of the current state-of-the-art 
-and the benefit it provides to the business or industry. When setting a hybrid goal, it is important to consider 
-the specific problem to be solved, the potential benefits of the machine learning solution, the new insights or 
-knowledge to be gained, and the metrics to measure success in terms of both business and research goals. 
-Incorporating the latest research findings into the project can also be an important consideration for achieving 
-a successful hybrid goal.
 
    
-  - ## [Business](goal.md)
-
+  - ## [Business](MachineLearningWorkflow/pages/Business.md)
     - [Customer Obsession](goal.md)
     - [Business Problem](MachineLearningWorkflow/pages/BusinessProblem.md)
   - ## [Research](goal.md)
